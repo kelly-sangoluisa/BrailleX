@@ -7,7 +7,7 @@ Las **principales características** de BrailleX son:
 - Traducción Bidireccional:
   - Traducción de texto en español a braille.
   - Traducción de texto en braille a español.
-- Interfaz Amigable:
+- Interfaz Accesible:
   - Diseño intuitivo y fácil de usar, adaptado para usuarios de todas las edades y niveles de habilidad.
 - Descarga de Traducciones:
   - Posibilidad de descargar las traducciones en formato PNG o PDF, ideal para crear señalética braille a bajo costo.
@@ -37,15 +37,15 @@ Las **principales características** de BrailleX son:
 ✅ Tester   ~     [Kelly Sangoluisa](https://github.com/kelly-sangoluisa)
 
 
-# Contenidos 
-- [Documentación Actualizada](https://github.com/ShanderGonzalez/BrailleX/tree/main/Version2/documentation/Version2)
+# Contenidos: 
+- [Documentación Actualizada](https://github.com/ShanderGonzalez/BrailleX/tree/main/Version2/documentation)
 - [Implementación Actualizada](https://github.com/ShanderGonzalez/BrailleX/tree/main/Version2/implementation)
-- [ReadMe](https://github.com/ShanderGonzalez/BrailleX/blob/main/Readme.md)
+- [Read Me](https://github.com/ShanderGonzalez/BrailleX/blob/main/Readme.md)
 
 # Acceso a Brailex
-[BraileX](https://shandergonzalez.github.io/BrailleX/Version2/implementation/app/views/index.html)
+[BrailleX](https://ShanderGonzalez.github.io/BrailleX/Version2/implementation/app/views/index.html)
 
-# Insights
+# Insights:
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ShanderGonzalez/BrailleX?style=plastic)
 
